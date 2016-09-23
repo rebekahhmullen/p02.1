@@ -29,3 +29,11 @@ def run_tests():
 
 
 def roll_double(dice1, dice2):
+
+
+   if dice1 == dice2:
+       print (dice1 * 2 + dice2 * 2)
+
+   else:
+        print (dice1 + dice2)
+ 
